@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['233533763772', 'Abraham Dwamena', true],
-  ['923361501800', 'BABLI×BABLI -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['918360234087', 'WHITE', true], 
+  ['923137183974', 'SAEED', true],
+  ['923361501800', 'BABLI×BABLI -(SAEED)', true], 
+  ['923477008403', 'NISAR', true], 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['233533763772','923361501800'] 
-global.prems = ['923361501800', '233533763772', '918360234087']
-global.allowed = ['923361501800', '233533763772', '918360234087']
+global.mods = ['923477008403','923137183974','923361501800'] 
+global.prems = ['923361501800', '923477008403', '923137183974']
+global.allowed = ['923361501800', '923477008403', '923137183974']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -55,7 +55,7 @@ global.botname = 'Babli-V2'
 global.premium = 'true'
 global.packname = 'Babli TEAM' 
 global.author = '@Babli-V2' 
-global.menuvid = 'https://telegra.ph/file/304010415e4d67628f58a.jpg'
+global.menuvid = 'https://telegra.ph/file/70a976392ba2af6609ea2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
@@ -65,15 +65,15 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🖕🏿 _BABLI IS LODIND..._*\n*▰▰▰❣️▱▱▱▱▱*'
 global.rwait = '🇵🇰'
 global.dmoji = '🇵🇰'
 global.done = '🇵🇰'
 global.error = '❌' 
 global.xmoji = '🔥' 
 
-global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.multiplier = 99 
+global.maxwarn = '10' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
